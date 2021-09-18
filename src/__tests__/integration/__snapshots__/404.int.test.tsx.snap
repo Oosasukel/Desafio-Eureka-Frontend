@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page Home should match snapshot 1`] = `
+<div>
+  <div
+    class="styles__Container-sc-1pzvp8o-0 fVDrnI"
+  >
+    <div
+      class="styles__AnimationWrapper-sc-1pzvp8o-1 HShWS"
+    >
+      <span>
+        Lottie Animation
+      </span>
+    </div>
+  </div>
+</div>
+`;
